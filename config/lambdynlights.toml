@@ -1,0 +1,39 @@
+mode = "fastest"
+
+[light_sources]
+	water_sensitive_check = false
+	block_entities = false
+	entities = false
+	self = true
+	tnt = "simple"
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				dolphin = true
+				chicken = true
+				axolotl = true
+				bee = true
+				arrow = true
+				donkey = true
+				block_display = true
+				cow = true
+				chest_boat = true
+				boat = true
+				chest_minecart = true
+				allay = true
+				area_effect_cloud = true
+				bat = true
+				blaze = true
+				camel = true
+				cat = true
+				cave_spider = true
+				armor_stand = true
+				cod = true
+				command_block_minecart = true
+				creeper = true
+				player = true
+

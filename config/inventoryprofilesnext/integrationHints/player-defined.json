@@ -1,0 +1,14 @@
+{
+    "net.minecraft.class_479": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 20,
+                "top": -3
+            },
+            "SETTINGS": {
+                "horizontalOffset": 70,
+                "top": -18
+            }
+        }
+    }
+}
