@@ -10,3 +10,7 @@
 
 # Shout Out
  El Bisu (Beta Tester)
+
+# Link Download
+ Beta : https://drive.google.com/file/d/1GbMwyPUs_rkiFyqTiZel3NDh6Lg3s-mr/view?usp=drive_link
+ Release : akan diupload di Discord Kodoku
