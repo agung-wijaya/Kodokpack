@@ -15,7 +15,7 @@
         "weaponsmith": [],
         "nitwit": [],
         "none": [],
-        "___+++___ wandering ___+++___": []
+        "archers:archery_artisan": []
     },
     "globalBookmarks1": {
         "armorer": [],
@@ -33,7 +33,7 @@
         "weaponsmith": [],
         "nitwit": [],
         "none": [],
-        "___+++___ wandering ___+++___": []
+        "archers:archery_artisan": []
     },
     "globalBookmarks2": {
         "armorer": [],
@@ -51,6 +51,6 @@
         "weaponsmith": [],
         "nitwit": [],
         "none": [],
-        "___+++___ wandering ___+++___": []
+        "archers:archery_artisan": []
     }
 }

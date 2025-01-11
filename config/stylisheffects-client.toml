@@ -70,7 +70,7 @@
 		respect_hide_particles = true
 		#Offset on x-axis.
 		#Range: > 0
-		offset_x = 85
+		offset_x = 3
 		#Offset on y-axis.
 		#Range: > 0
 		offset_y = 3

@@ -1,0 +1,25 @@
+{
+  "allowMovement": {
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageScreen": true,
+    "net.minecraft.class_433": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true,
+    "de.maxhenkel.voicechat.gui.audiodevice.SelectMicrophoneScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSettingsScreen": true,
+    "de.markusbordihn.easynpc.client.screen.dialog.DialogScreenWrapper": true,
+    "io.github.lightman314.lightmanscurrency.client.gui.screen.inventory.ATMScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "nl.enjarai.showmeyourskin.gui.ClientConfigScreen": true
+  },
+  "hideBackground": {
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSettingsScreen": true,
+    "de.markusbordihn.easynpc.client.screen.dialog.DialogScreenWrapper": true,
+    "io.github.lightman314.lightmanscurrency.client.gui.screen.inventory.ATMScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true
+  }
+}

@@ -1,11 +1,20 @@
-mode = "fastest"
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
 
+# Light sources settings.
 [light_sources]
-	water_sensitive_check = false
-	block_entities = false
-	entities = false
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
 	self = true
-	tnt = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
 	creeper = "simple"
 
 	[light_sources.settings]
@@ -13,27 +22,146 @@ mode = "fastest"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				dolphin = true
-				chicken = true
 				axolotl = true
 				bee = true
+				egg = true
 				arrow = true
-				donkey = true
-				block_display = true
 				cow = true
+				magma_cube = true
+				pig = true
+				allay = true
+				llama = true
+				skeleton = true
+				bat = true
+				frog = true
+				husk = true
+				hoglin = true
+				camel = true
+				experience_bottle = true
+				rabbit = true
+				firework_rocket = true
+				armor_stand = true
+				giant = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				stray = true
+				salmon = true
+				goat = true
+				furnace_minecart = true
+				item_frame = true
+				horse = true
+				phantom = true
+				minecart = true
+				ender_dragon = true
+				leash_knot = true
+				evoker = true
+				marker = true
+				llama_spit = true
+				mooshroom = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+				dragon_fireball = true
+				chicken = true
+				donkey = true
+				evoker_fangs = true
+				chest_minecart = true
+				fox = true
+				tropical_fish = true
+				slime = true
+				iron_golem = true
+				area_effect_cloud = true
+				blaze = true
+				end_crystal = true
+				endermite = true
+				cat = true
+				ender_pearl = true
+				zombie = true
+				item_display = true
+				guardian = true
+				ghast = true
+				fireball = true
+				sheep = true
+				player = true
+				illusioner = true
+				pufferfish = true
+				eye_of_ender = true
+				wolf = true
+				villager = true
+				skeleton_horse = true
+				block_display = true
+				zombie_villager = true
+				tnt_minecart = true
+				elder_guardian = true
 				chest_boat = true
 				boat = true
-				chest_minecart = true
-				allay = true
-				area_effect_cloud = true
-				bat = true
-				blaze = true
-				camel = true
-				cat = true
+				polar_bear = true
+				hopper_minecart = true
+				falling_block = true
+				painting = true
 				cave_spider = true
-				armor_stand = true
+				interaction = true
 				cod = true
+				witch = true
+				spider = true
 				command_block_minecart = true
-				creeper = true
-				player = true
+
+			[light_sources.settings.entities.naturalist]
+				deer = true
+				snail = true
+				alligator = true
+				canary = true
+				firefly = true
+				rhino = true
+				bluejay = true
+				coral_snake = true
+				snake = true
+				cardinal = true
+				lion = true
+				robin = true
+				boar = true
+				bass = true
+				butterfly = true
+				duck = true
+				bear = true
+				sparrow = true
+				elephant = true
+				lizard = true
+				finch = true
+
+			[light_sources.settings.entities.easy_npc]
+				humanoid = true
+				humanoid_slim = true
+				zombie = true
+
+			[light_sources.settings.entities.exposure]
+				photograph_frame = true
+
+			[light_sources.settings.entities.niftycarts]
+				supply_cart = true
+				postilion = true
+				animal_cart = true
+
+			[light_sources.settings.entities.vinery]
+				mule = true
+				wandering_winemaker = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				contraption = true
+				gantry_contraption = true
+
+			[light_sources.settings.entities.yungscavebiomes]
+				ice_cube = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.refurbished_furniture]
+				seat = true
 
